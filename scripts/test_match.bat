@@ -19,6 +19,13 @@ echo   Snake Game Engine - Quick Test
 echo ========================================
 echo.
 
+echo Cleaning up zombie processes...
+powershell -Command "Get-Process | Where-Object {$_.ProcessName -match 'python'} | Stop-Process -Force -ErrorAction SilentlyContinue"
+REM Docker containers with --rm flag should auto-cleanup when the docker run process is killed
+REM Only force-kill if there are truly orphaned containers (optional safety net)
+echo Done.
+echo.
+
 echo Building the engine...
 go build -o bin/snakegame.exe
 if %ERRORLEVEL% NEQ 0 (

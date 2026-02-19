@@ -14,6 +14,14 @@ echo "  Snake Game Engine - Quick Test"
 echo "========================================"
 echo ""
 
+echo "Cleaning up zombie processes..."
+# Kill any lingering Python bot processes
+pkill -f "python.*bot\.py" 2>/dev/null || true
+# Docker containers with --rm flag should auto-cleanup when the docker run process is killed
+# Only force-kill if there are truly orphaned containers (optional safety net)
+echo "Done."
+echo ""
+
 echo "Building the engine..."
 go build -o bin/snakegame
 if [ $? -ne 0 ]; then
