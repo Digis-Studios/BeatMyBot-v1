@@ -1,0 +1,686 @@
+{
+  "tournament_type": "round_robin",
+  "timestamp": "2026-02-16T21:16:15.234145",
+  "participants": 10,
+  "total_matches": 45,
+  "duration_seconds": 408.103648,
+  "rankings": [
+    {
+      "rank": 1,
+      "bot": "GlitchLabs",
+      "points": 24,
+      "wins": 8,
+      "draws": 0,
+      "losses": 1,
+      "matches": 9
+    },
+    {
+      "rank": 2,
+      "bot": "pandas",
+      "points": 18,
+      "wins": 6,
+      "draws": 0,
+      "losses": 3,
+      "matches": 9
+    },
+    {
+      "rank": 3,
+      "bot": "GodBot",
+      "points": 15,
+      "wins": 5,
+      "draws": 0,
+      "losses": 4,
+      "matches": 9
+    },
+    {
+      "rank": 4,
+      "bot": "Ssserperior3.0",
+      "points": 15,
+      "wins": 5,
+      "draws": 0,
+      "losses": 4,
+      "matches": 9
+    },
+    {
+      "rank": 5,
+      "bot": "crimemastergogo",
+      "points": 15,
+      "wins": 5,
+      "draws": 0,
+      "losses": 4,
+      "matches": 9
+    },
+    {
+      "rank": 6,
+      "bot": "Angen-Gatram",
+      "points": 12,
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "matches": 9
+    },
+    {
+      "rank": 7,
+      "bot": "clanker_slayer",
+      "points": 12,
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "matches": 9
+    },
+    {
+      "rank": 8,
+      "bot": "pungi",
+      "points": 12,
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "matches": 9
+    },
+    {
+      "rank": 9,
+      "bot": "slitheraura",
+      "points": 12,
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "matches": 9
+    },
+    {
+      "rank": 10,
+      "bot": "sleeping_snakes",
+      "points": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 9,
+      "matches": 9
+    }
+  ],
+  "match_history": [
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "GlitchLabs",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:09:35.705687"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "GodBot",
+      "winner": "GodBot",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "GodBot",
+          "win_reason": "Bot 2 wins - Bot 1 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:09:46.188080"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "Ssserperior3.0",
+      "winner": "Angen-Gatram",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "Angen-Gatram",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with wall"
+        }
+      ],
+      "timestamp": "2026-02-16T21:10:16.504048"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "clanker_slayer",
+      "winner": "clanker_slayer",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "clanker_slayer",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:10:28.041165"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "crimemastergogo",
+      "winner": "crimemastergogo",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "crimemastergogo",
+          "win_reason": "Bot 2 wins - Bot 1 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:10:34.015252"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "pandas",
+      "winner": "pandas",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "pandas",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:10:39.621548"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "pungi",
+      "winner": "Angen-Gatram",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "Angen-Gatram",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:10:42.423598"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "sleeping_snakes",
+      "winner": "Angen-Gatram",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "Angen-Gatram",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:10:46.143883"
+    },
+    {
+      "bot1": "Angen-Gatram",
+      "bot2": "slitheraura",
+      "winner": "Angen-Gatram",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "Angen-Gatram",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:10:51.893056"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "GodBot",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with wall"
+        }
+      ],
+      "timestamp": "2026-02-16T21:11:25.770554"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "Ssserperior3.0",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 1 wins - Bot 2 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:11:50.165725"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "clanker_slayer",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "gg.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 1 wins - Bot 2 died due to self-collision"
+        }
+      ],
+      "timestamp": "2026-02-16T21:11:54.717168"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "crimemastergogo",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 1 wins - Bot 2 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:12:02.885351"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "pandas",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 1 wins - Longer snake at max turns"
+        }
+      ],
+      "timestamp": "2026-02-16T21:13:44.036169"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "pungi",
+      "winner": "pungi",
+      "map_results": [
+        {
+          "map": "gg.json",
+          "winner": "pungi",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:13:47.372415"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "sleeping_snakes",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:13:50.174068"
+    },
+    {
+      "bot1": "GlitchLabs",
+      "bot2": "slitheraura",
+      "winner": "GlitchLabs",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "GlitchLabs",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:13:56.221825"
+    },
+    {
+      "bot1": "GodBot",
+      "bot2": "Ssserperior3.0",
+      "winner": "GodBot",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "GodBot",
+          "win_reason": "Bot 1 wins - Longer snake at max turns"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:08.616355"
+    },
+    {
+      "bot1": "GodBot",
+      "bot2": "clanker_slayer",
+      "winner": "clanker_slayer",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "clanker_slayer",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with wall"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:11.786605"
+    },
+    {
+      "bot1": "GodBot",
+      "bot2": "crimemastergogo",
+      "winner": "crimemastergogo",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "crimemastergogo",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:14.883377"
+    },
+    {
+      "bot1": "GodBot",
+      "bot2": "pandas",
+      "winner": "GodBot",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "GodBot",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:20.711496"
+    },
+    {
+      "bot1": "GodBot",
+      "bot2": "pungi",
+      "winner": "GodBot",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "GodBot",
+          "win_reason": "Bot 1 wins - Bot 2 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:22.487932"
+    },
+    {
+      "bot1": "GodBot",
+      "bot2": "sleeping_snakes",
+      "winner": "GodBot",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "GodBot",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:24.305353"
+    },
+    {
+      "bot1": "GodBot",
+      "bot2": "slitheraura",
+      "winner": "slitheraura",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "slitheraura",
+          "win_reason": "Bot 2 wins - Bot 1 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:28.218551"
+    },
+    {
+      "bot1": "Ssserperior3.0",
+      "bot2": "clanker_slayer",
+      "winner": "Ssserperior3.0",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "Ssserperior3.0",
+          "win_reason": "Bot 1 wins - Bot 2 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:32.247902"
+    },
+    {
+      "bot1": "Ssserperior3.0",
+      "bot2": "crimemastergogo",
+      "winner": "Ssserperior3.0",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "Ssserperior3.0",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:37.335753"
+    },
+    {
+      "bot1": "Ssserperior3.0",
+      "bot2": "pandas",
+      "winner": "Ssserperior3.0",
+      "map_results": [
+        {
+          "map": "gg.json",
+          "winner": "Ssserperior3.0",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:41.458866"
+    },
+    {
+      "bot1": "Ssserperior3.0",
+      "bot2": "pungi",
+      "winner": "Ssserperior3.0",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "Ssserperior3.0",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:46.877533"
+    },
+    {
+      "bot1": "Ssserperior3.0",
+      "bot2": "sleeping_snakes",
+      "winner": "Ssserperior3.0",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "Ssserperior3.0",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:49.049391"
+    },
+    {
+      "bot1": "Ssserperior3.0",
+      "bot2": "slitheraura",
+      "winner": "slitheraura",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "slitheraura",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:51.668119"
+    },
+    {
+      "bot1": "clanker_slayer",
+      "bot2": "crimemastergogo",
+      "winner": "crimemastergogo",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "crimemastergogo",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:14:54.440677"
+    },
+    {
+      "bot1": "clanker_slayer",
+      "bot2": "pandas",
+      "winner": "pandas",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "pandas",
+          "win_reason": "Bot 2 wins - Bot 1 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:00.197678"
+    },
+    {
+      "bot1": "clanker_slayer",
+      "bot2": "pungi",
+      "winner": "pungi",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "pungi",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with wall"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:02.970482"
+    },
+    {
+      "bot1": "clanker_slayer",
+      "bot2": "sleeping_snakes",
+      "winner": "clanker_slayer",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "clanker_slayer",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:09.090365"
+    },
+    {
+      "bot1": "clanker_slayer",
+      "bot2": "slitheraura",
+      "winner": "clanker_slayer",
+      "map_results": [
+        {
+          "map": "gg.json",
+          "winner": "clanker_slayer",
+          "win_reason": "Bot 1 wins - Bot 2 died due to self-collision"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:11.888631"
+    },
+    {
+      "bot1": "crimemastergogo",
+      "bot2": "pandas",
+      "winner": "pandas",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "pandas",
+          "win_reason": "Bot 2 wins - Bot 1 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:19.748641"
+    },
+    {
+      "bot1": "crimemastergogo",
+      "bot2": "pungi",
+      "winner": "pungi",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "pungi",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:24.493106"
+    },
+    {
+      "bot1": "crimemastergogo",
+      "bot2": "sleeping_snakes",
+      "winner": "crimemastergogo",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "crimemastergogo",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:26.327327"
+    },
+    {
+      "bot1": "crimemastergogo",
+      "bot2": "slitheraura",
+      "winner": "crimemastergogo",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "crimemastergogo",
+          "win_reason": "Bot 1 wins - Bot 2 died due to hunger"
+        }
+      ],
+      "timestamp": "2026-02-16T21:15:29.656225"
+    },
+    {
+      "bot1": "pandas",
+      "bot2": "pungi",
+      "winner": "pandas",
+      "map_results": [
+        {
+          "map": "trisul.json",
+          "winner": "pandas",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with wall"
+        }
+      ],
+      "timestamp": "2026-02-16T21:16:01.258642"
+    },
+    {
+      "bot1": "pandas",
+      "bot2": "sleeping_snakes",
+      "winner": "pandas",
+      "map_results": [
+        {
+          "map": "pockets.json",
+          "winner": "pandas",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:16:03.317201"
+    },
+    {
+      "bot1": "pandas",
+      "bot2": "slitheraura",
+      "winner": "pandas",
+      "map_results": [
+        {
+          "map": "gg.json",
+          "winner": "pandas",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:16:06.720362"
+    },
+    {
+      "bot1": "pungi",
+      "bot2": "sleeping_snakes",
+      "winner": "pungi",
+      "map_results": [
+        {
+          "map": "gg.json",
+          "winner": "pungi",
+          "win_reason": "Bot 1 wins - Bot 2 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:16:10.968383"
+    },
+    {
+      "bot1": "pungi",
+      "bot2": "slitheraura",
+      "winner": "slitheraura",
+      "map_results": [
+        {
+          "map": "checkered.json",
+          "winner": "slitheraura",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:16:13.011281"
+    },
+    {
+      "bot1": "sleeping_snakes",
+      "bot2": "slitheraura",
+      "winner": "slitheraura",
+      "map_results": [
+        {
+          "map": "ez.json",
+          "winner": "slitheraura",
+          "win_reason": "Bot 2 wins - Bot 1 died due to collision with obstacle"
+        }
+      ],
+      "timestamp": "2026-02-16T21:16:15.230350"
+    }
+  ]
+}

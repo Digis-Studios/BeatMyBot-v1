@@ -1,0 +1,62 @@
+======================================================================
+SNAKE GAME - TOURNAMENT SEEDING (Latest Round Robin)
+Generated: 2026-02-16 21:16:15
+======================================================================
+
+Total Participants: 10
+Total Matches: 45
+Scoring: Win = 3 pts | Draw = 1 pt | Loss = 0 pts
+
+FINAL SEEDING:
+----------------------------------------------------------------------
+
+Seed #1: GlitchLabs
+   Score: 24 points
+   Record: 8 Wins - 0 Draws - 1 Losses
+   Win Rate: 88.9%
+
+Seed #2: pandas
+   Score: 18 points
+   Record: 6 Wins - 0 Draws - 3 Losses
+   Win Rate: 66.7%
+
+Seed #3: GodBot
+   Score: 15 points
+   Record: 5 Wins - 0 Draws - 4 Losses
+   Win Rate: 55.6%
+
+Seed #4: Ssserperior3.0
+   Score: 15 points
+   Record: 5 Wins - 0 Draws - 4 Losses
+   Win Rate: 55.6%
+
+Seed #5: crimemastergogo
+   Score: 15 points
+   Record: 5 Wins - 0 Draws - 4 Losses
+   Win Rate: 55.6%
+
+Seed #6: Angen-Gatram
+   Score: 12 points
+   Record: 4 Wins - 0 Draws - 5 Losses
+   Win Rate: 44.4%
+
+Seed #7: clanker_slayer
+   Score: 12 points
+   Record: 4 Wins - 0 Draws - 5 Losses
+   Win Rate: 44.4%
+
+Seed #8: pungi
+   Score: 12 points
+   Record: 4 Wins - 0 Draws - 5 Losses
+   Win Rate: 44.4%
+
+Seed #9: slitheraura
+   Score: 12 points
+   Record: 4 Wins - 0 Draws - 5 Losses
+   Win Rate: 44.4%
+
+Seed #10: sleeping_snakes
+   Score: 0 points
+   Record: 0 Wins - 0 Draws - 9 Losses
+   Win Rate: 0.0%
+
