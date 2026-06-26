@@ -9,6 +9,14 @@ Runner Ups: 🥈GodBot by Akash Gupta and Naveen Pal 🥈
 
 You can see the replays of the tournament matches in [Tournament Replays](tournament-replays)
 
+The tools for BeatMyBot-v1 are made by Digis Studios - IITGN
+
+- Divyansh Sharma ([Diver202](https://github.com/Diver202))
+- Hem Tilva ([hemtilva](https://github.com/hemtilva))
+- Nilay Verma ([nilayverma](https://github.com/nilayverma)) 
+- Siddhesh Umarjee ([IdkRandomTry](https://github.com/IdkRandomTry))
+---
+
 # Beat my Bot v1 - Game Ssspecifications
 
 Welcome to the first ever **Beat my Bot** challenge.
